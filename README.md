@@ -7,3 +7,4 @@ Incluid debajo el nombre de los miembros del grupo:
 
 Victor González Blanco
 Carlos De La Huerga Cenador
+Andre Pires Teixiera
