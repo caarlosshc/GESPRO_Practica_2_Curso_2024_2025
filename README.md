@@ -8,3 +8,7 @@ Incluid debajo el nombre de los miembros del grupo:
 Victor González Blanco
 Carlos De La Huerga Cenador
 Andre Pires Teixiera
+
+# Entrega 1:
+![image](https://github.com/user-attachments/assets/c2aaf2cf-b0a7-4300-b301-6fd418a4a779)
+
