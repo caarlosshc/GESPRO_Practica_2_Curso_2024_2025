@@ -11,18 +11,19 @@ Andre Pires Teixiera
 
 # Entrega 1:
 # Filtrado
-Zenhub nos deja filtar por las etiquetas que nosotros hayamos puesto a cada uno de las actividades. Para ello deberemos de seleccionar el icono de tags, y ahi podremos seleccionar que filtro queremos poner
+Zenhub nos deja filtar por las etiquetas que nosotros hayamos puesto a cada uno de las actividades. Para ello deberemos de seleccionar el icono de label, y ahi podremos seleccionar que filtro queremos poner
+
+![image](https://github.com/user-attachments/assets/15700139-02bf-4b06-a9e1-3c92a41c2bd8)
+
 _EPIC:_
 
 
 ![image](https://github.com/user-attachments/assets/c2aaf2cf-b0a7-4300-b301-6fd418a4a779)
 
-
 _US:_
 
 
 ![image](https://github.com/user-attachments/assets/6debe2ed-b5ce-42fa-bdec-b760b08539eb)
-
 
 _Tasks:_
 En esta podemos ver que parece que haya menos de la que debería, pero esto se debe a que tenemos algunas ya povidas a la columna de Product Backlog
@@ -37,7 +38,6 @@ Aquí podemos encontrar las tareas del primer realese que tenia como fecha el d�
 
  ![image](https://github.com/user-attachments/assets/a911fac0-0ee4-419e-ade0-53ee39505cf8)
 
- 
  Aquí vemos una vez que filtramos por la realese 1 estando en la columna de Sprint Backlog:
 
  
@@ -54,7 +54,6 @@ Una vez que vemos que las tareas se han completado o incluso cerrado,
 
 
 ![image](https://github.com/user-attachments/assets/1d55f6df-9757-4a1b-be68-75580f81e910)
-
 
 Podemos cerrar la Realese 1 entera. Para ello, si vamos a la pestaña de Issues > milestone podemos ver los realese que tenemos, el porcentaje de completada y decidir si editarlo, cerrarlo o eliminarlo:
 
