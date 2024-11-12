@@ -76,5 +76,13 @@ Para ello filtraremos por la etiqueta Topic:setup
 Con lo que obtendremos:
 <img width="920" alt="image" src="https://github.com/user-attachments/assets/bbdd84d3-d89e-4142-b311-367da74fd825">
 
+## Imagenes de conversación en 2 tareas
 
+Para la tarea form a bank statement:
+
+<img width="1011" alt="image" src="https://github.com/user-attachments/assets/ff1c15be-1d12-483f-ad31-6d43400485b8">
+
+Para la tarea Transfer money:
+
+<img width="1117" alt="image" src="https://github.com/user-attachments/assets/9dc1618d-1d62-491f-a570-8b66d111f51b">
 
