@@ -58,8 +58,23 @@ Una vez que vemos que las tareas se han completado o incluso cerrado,
 Podemos cerrar la Realese 1 entera. Para ello, si vamos a la pestaña de Issues > milestone podemos ver los realese que tenemos, el porcentaje de completada y decidir si editarlo, cerrarlo o eliminarlo:
 
 
-![image](https://github.com/user-attachments/assets/8a53eb8e-2546-4fa2-bcf9-fc187d592ece)
+<img width="1231" alt="image" src="https://github.com/user-attachments/assets/2314a41c-b582-40f9-9a68-197895ed3211">
 
+# Comienzo 2da release
+Para ello moveremos todas las issues con milestone = Release 2 a sprint backlog como hicimos para la 1a Release.
+
+<img width="302" alt="image" src="https://github.com/user-attachments/assets/3042e12b-60aa-41f2-ba36-3d60bc34d2d9">
+
+# Tareas de la 2da Release en progreso y filtradas por algún topic
+Para ello iremos pasando las tareas entre las secciones "In progress", "Review/QA" o "Done".
+
+<img width="933" alt="image" src="https://github.com/user-attachments/assets/6029139b-eb05-449d-aa29-57d06ff35ed4">
+Filtrado por el Topic Setup.
+Para ello filtraremos por la etiqueta Topic:setup 
+
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/6292dd7f-70c9-45f5-9c14-e0a5a3ef2d83">
+Con lo que obtendremos:
+<img width="920" alt="image" src="https://github.com/user-attachments/assets/bbdd84d3-d89e-4142-b311-367da74fd825">
 
 
 
