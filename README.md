@@ -5,84 +5,95 @@ Para completar la práctica 2, se iniciará el repositorio de cada grupo (en el 
 
 Incluid debajo el nombre de los miembros del grupo:
 
-Victor González Blanco
-Carlos De La Huerga Cenador
-Andre Pires Teixiera
+- Victor González Blanco  
+- Carlos De La Huerga Cenador  
+- Andre Pires Teixeira  
 
-# Entrega 1:
-# Filtrado
-Zenhub nos deja filtar por las etiquetas que nosotros hayamos puesto a cada uno de las actividades. Para ello deberemos de seleccionar el icono de label, y ahi podremos seleccionar que filtro queremos poner
+---
 
-![image](https://github.com/user-attachments/assets/15700139-02bf-4b06-a9e1-3c92a41c2bd8)
+# Entrega 1: Guía para comenzar con GitHub y Zenhub
 
-_EPIC:_
+## 1. Acceso al repositorio
+- Crea una cuenta en GitHub si no tienes una.  
+- Solicita acceso al repositorio del proyecto.  
+- Clona el repositorio desde la pestaña "Code" y selecciona la opción correspondiente para descargarlo.  
 
+## 2. Configuración de Zenhub
+- Instala la extensión de Zenhub en tu navegador.  
+- Asegúrate de que la pestaña de Zenhub esté disponible en el repositorio para gestionar tareas.  
 
-![image](https://github.com/user-attachments/assets/c2aaf2cf-b0a7-4300-b301-6fd418a4a779)
+## 3. Uso de Issues
+- Encuentra las tareas asignadas en la pestaña "Issues".  
+- Si necesitas crear una nueva tarea, utiliza "New Issue" y proporciona un título y descripción claros.  
+- Etiqueta las tareas con **labels** (por ejemplo, "bug", "feature", "task") para organizarlas correctamente.  
 
-_US:_
+## 4. Organización con Zenhub
+- Usa el tablero de Zenhub para mover las tareas entre las siguientes columnas:  
+  - **To Do**: Pendiente de iniciar.  
+  - **In Progress**: En desarrollo.  
+  - **Done**: Finalizada.  
 
+## 5. Uso de Milestones
+- Los milestones agrupan tareas relacionadas con un objetivo o fecha límite.  
+- Asegúrate de vincular las tareas al milestone correspondiente.  
+- Consulta el progreso en la pestaña "Milestones".  
 
-![image](https://github.com/user-attachments/assets/6debe2ed-b5ce-42fa-bdec-b760b08539eb)
+## 6. Comunicación
+- Comenta en los issues para documentar avances o aclarar dudas.  
+- Menciona a los compañeros con `@` seguido de su nombre de usuario para notificarles.  
 
-_Tasks:_
-En esta podemos ver que parece que haya menos de la que debería, pero esto se debe a que tenemos algunas ya povidas a la columna de Product Backlog
+---
 
+# Filtrado en Zenhub
+Zenhub permite filtrar tareas utilizando las etiquetas asignadas a cada actividad. Para hacerlo, selecciona el icono de etiquetas (labels) y elige los filtros deseados.  
 
-![image](https://github.com/user-attachments/assets/d34e980b-c44c-4f89-9814-4bbf7cd54f47)
+### Ejemplo de filtrado por epics:
+![Epic Filtrado](https://github.com/user-attachments/assets/c2aaf2cf-b0a7-4300-b301-6fd418a4a779)
 
+### Ejemplo de filtrado por historias de usuario:
+![User Stories](https://github.com/user-attachments/assets/6debe2ed-b5ce-42fa-bdec-b760b08539eb)
 
-# Tareas Realese 1:
-Aquí podemos encontrar las tareas del primer realese que tenia como fecha el día 5 de noviembre. Para poder filtrar por realese deberemos de seleccionarlo en el icono de milestone.
+### Ejemplo de tareas pendientes:
+Algunas tareas pueden haber sido movidas a la columna de "Product Backlog".  
+![Tasks](https://github.com/user-attachments/assets/d34e980b-c44c-4f89-9814-4bbf7cd54f47)
 
+---
 
- ![image](https://github.com/user-attachments/assets/a911fac0-0ee4-419e-ade0-53ee39505cf8)
+# Tareas Release 1
+El Release 1 tenía como fecha límite el 5 de noviembre. Puedes filtrar por el milestone correspondiente utilizando el icono de milestone.  
 
- Aquí vemos una vez que filtramos por la realese 1 estando en la columna de Sprint Backlog:
+### Ejemplo de filtrado por Release 1:
+![Release 1 Sprint Backlog](https://github.com/user-attachments/assets/4e488c0d-ab49-43f0-942a-e5554bff4361)
 
- 
- ![image](https://github.com/user-attachments/assets/4e488c0d-ab49-43f0-942a-e5554bff4361)
+### Tareas en progreso y completadas:
+![Tareas en progreso](https://github.com/user-attachments/assets/6259f695-e7c9-493a-801f-93936f8270a3)
 
- # Tareas Realese 1 en progreso, completadas o cerradas:
- A continuación, vemos como las tareas del realese 1 empiezan a estar en progreso y a completarse:
+### Cerrado del Release 1:
+Cuando todas las tareas están completadas, puedes cerrar el milestone desde la pestaña "Issues > Milestones".  
+![Cerrado Release](https://github.com/user-attachments/assets/1d55f6df-9757-4a1b-be68-75580f81e910)
 
- 
- ![image](https://github.com/user-attachments/assets/6259f695-e7c9-493a-801f-93936f8270a3)
- 
-# Cerrado de Realese 1:
-Una vez que vemos que las tareas se han completado o incluso cerrado,
+---
 
+# Comienzo del Release 2
+Para comenzar el Release 2, mueve las issues asignadas a este milestone a la columna "Sprint Backlog".  
+![Inicio Release 2](https://github.com/user-attachments/assets/3042e12b-60aa-41f2-ba36-3d60bc34d2d9)
 
-![image](https://github.com/user-attachments/assets/1d55f6df-9757-4a1b-be68-75580f81e910)
+### Progreso de tareas del Release 2:
+Las tareas se moverán entre las columnas "In Progress", "Review/QA" y "Done".  
+![Tareas Release 2](https://github.com/user-attachments/assets/6029139b-eb05-449d-aa29-57d06ff35ed4)
 
-Podemos cerrar la Realese 1 entera. Para ello, si vamos a la pestaña de Issues > milestone podemos ver los realese que tenemos, el porcentaje de completada y decidir si editarlo, cerrarlo o eliminarlo:
+### Filtrado por etiquetas específicas:
+Por ejemplo, filtrando por la etiqueta **Topic:setup**:  
+![Filtrado Setup](https://github.com/user-attachments/assets/6292dd7f-70c9-45f5-9c14-e0a5a3ef2d83)  
+Resultado del filtrado:  
+![Resultado filtrado Setup](https://github.com/user-attachments/assets/bbdd84d3-d89e-4142-b311-367da74fd825)
 
+---
 
-<img width="1231" alt="image" src="https://github.com/user-attachments/assets/2314a41c-b582-40f9-9a68-197895ed3211">
+## Ejemplo de conversación en tareas
 
-# Comienzo 2da release
-Para ello moveremos todas las issues con milestone = Release 2 a sprint backlog como hicimos para la 1a Release.
+### Para la tarea "Form a bank statement":
+![Form a bank statement](https://github.com/user-attachments/assets/ff1c15be-1d12-483f-ad31-6d43400485b8)
 
-<img width="302" alt="image" src="https://github.com/user-attachments/assets/3042e12b-60aa-41f2-ba36-3d60bc34d2d9">
-
-# Tareas de la 2da Release en progreso y filtradas por algún topic
-Para ello iremos pasando las tareas entre las secciones "In progress", "Review/QA" o "Done".
-
-<img width="933" alt="image" src="https://github.com/user-attachments/assets/6029139b-eb05-449d-aa29-57d06ff35ed4">
-Filtrado por el Topic Setup.
-Para ello filtraremos por la etiqueta Topic:setup 
-
-<img width="1470" alt="image" src="https://github.com/user-attachments/assets/6292dd7f-70c9-45f5-9c14-e0a5a3ef2d83">
-Con lo que obtendremos:
-<img width="920" alt="image" src="https://github.com/user-attachments/assets/bbdd84d3-d89e-4142-b311-367da74fd825">
-
-## Imagenes de conversación en 2 tareas
-
-Para la tarea form a bank statement:
-
-<img width="1011" alt="image" src="https://github.com/user-attachments/assets/ff1c15be-1d12-483f-ad31-6d43400485b8">
-
-Para la tarea Transfer money:
-
-<img width="1117" alt="image" src="https://github.com/user-attachments/assets/9dc1618d-1d62-491f-a570-8b66d111f51b">
-
+### Para la tarea "Transfer money":
+![Transfer money](https://github.com/user-attachments/assets/9dc1618d-1d62-491f-a570-8b66d111f51b)
